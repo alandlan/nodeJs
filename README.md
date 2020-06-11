@@ -1,2 +1,2 @@
-# nodeJs
-Criando aplicação completa com Node
+# Projeto em NodeJS
+Criando aplicação completa com NodeJS.
